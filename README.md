@@ -1,4 +1,4 @@
-# Awesome Prompt Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Prompt Engineering [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -71,10 +71,10 @@ Prompt engineering is the craft of designing effective prompts to instruct and g
 
 ## Related Awesome Lists
 
-- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
-- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
-- **[Awesome LangChain](https://github.com/awesomelistsio/awesome-langchain)**
+- **[Awesome ChatGPT](https://github.com/brandonhimpfen/awesome-chatgpt)**
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)**
+- **[Awesome Generative AI](https://github.com/brandonhimpfen/awesome-generative-ai)**
+- **[Awesome LangChain](https://github.com/brandonhimpfen/awesome-langchain)**
 
 ## Contribute
 
